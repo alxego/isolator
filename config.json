@@ -1,0 +1,6 @@
+{
+    "data": "data/",
+    "root": "newroot/",
+    "command": "./sayhi",
+    "memlim": 100000000
+}
